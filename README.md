@@ -1,5 +1,8 @@
 # 📈 StockPredictor — EMA-based Stock Forecasting
+https://predict-ftse.vercel.app/
+
 A TypeScript-based predictive model that uses **Exponential Moving Averages (EMA)**, **Linear Regression**, and **Volatility Analysis** to estimate next-day stock prices.
+
 
 ### 🔍 OVERVIEW
 
